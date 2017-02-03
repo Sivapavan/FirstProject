@@ -1,0 +1,13 @@
+E:\MnTProjects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Test\HelloWorld\HelloWorld\bin\Debug\mscorlib.dll
+D:\Test\HelloWorld\HelloWorld\bin\Debug\normidna.nlp
+D:\Test\HelloWorld\HelloWorld\bin\Debug\normnfc.nlp
+D:\Test\HelloWorld\HelloWorld\bin\Debug\normnfd.nlp
+D:\Test\HelloWorld\HelloWorld\bin\Debug\normnfkc.nlp
+D:\Test\HelloWorld\HelloWorld\bin\Debug\normnfkd.nlp
+D:\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
